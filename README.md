@@ -122,11 +122,4 @@ Created by Yan Desbiens (AI Warlord). Built from scratch, tested on local machin
 
 ## License
 
-MIT.
-
-
----
-
-Let me know if you want to break this into smaller docs/ files or make it portable to Hugging Face Spaces, Streamlit, or Web UI. This is clean, honest, and real — the way serious devs like it.
-
-
+MIT
